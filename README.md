@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saaksshi</h1>
 
-<h3 align="center">Final Year B.Tech CSE @ KIIT University · AI/ML & Full-Stack Developer</h3>
+<h3 align="center">Pre-Final Year B.Tech CSE @ KIIT University</h3>
 
 <h3 align="center">
-Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, Development & Problem Solving
+Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, Web Development
 </h3>
 
 ---
@@ -13,66 +13,125 @@ Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, Development & Probl
 I build AI systems that go beyond notebooks, from model training to deployed, usable products. I enjoy the full loop: designing the model, wrapping it in a **FastAPI** backend, and shipping a clean **React** frontend.
 
 - 🌱 Currently working on **LLMs, RAG, agentic AI, and medical-image deep learning**
-- 🩺 Exploring **explainable AI** with Grad-CAM and many more
+- 🩺 Exploring **explainable AI** with Grad-CAM
 - ⚙️ Completed an **8-week AI/ML research internship** at KIIT (summer 2026)
+- 🎨 **Graphic Design Lead & Project Representative** at NSS-SCE-KIIT
 - 💻 Regular problem solver: DSA in Java, graph algorithms, competitive programming
 - 📫 Reach me at **poddersak@gmail.com**
 
 ---
 
-## 🚀 Projects
+<h3 align="left">🚀 Projects:</h3>
 
-**🎥 AI RAG Video Assistant** — Retrieval-augmented assistant for asking questions about video content. <br>
+**AI RAG Video Assistant** — Retrieval-augmented assistant for asking questions about video content. <br>
 🔗 [View Repo](https://github.com/Saaksshi18/ai-rag-video-assistant)
 
-**🫁 PneumoScan** — Pneumonia detection from chest X-rays with Grad-CAM heatmaps. Deployed with a FastAPI backend on Render and a frontend on Vercel. <br>
-🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO) 
+**PneumoScan** — Pneumonia detection from chest X-rays with Grad-CAM heatmaps. Deployed with a FastAPI backend on Render and a frontend on Vercel. <br>
+🔗 LIVE DEMO- https://YOUR-DEMO-LINK
 
+**Saathi** — Hyperlocal B2B agentic AI negotiation platform. A confidence-gated agent scores each deal on five signals and escalates to a human when unsure. Built using LangChain, Claude API, FastAPI, MySQL & React. <br>
+🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
 
----
+**LLM Evaluation Dashboard** — Scores LLM outputs on accuracy, hallucination, latency, cost, and user satisfaction using an LLM-as-judge approach, built with FastAPI, SQLite & React. <br>
+🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
 
-## 🛠 Languages and Tools
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBOOST-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
-![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/CLAUDE_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OPENAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Twilio](https://img.shields.io/badge/TWILIO-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Google Maps](https://img.shields.io/badge/GOOGLE_MAPS_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Colab](https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+**Skin Disease Classifier** — Transfer learning on SD-198 with external validation on PAD-UFES-20. <br>
+🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
 
 ---
 
-## 🌐 Connect with me
+<h3 align="left">🏆 Achievements</h3>
+
+- 🏅 **Unit-Level Best Volunteer**, awarded by NSS on NSS Day 2026 for outstanding contribution to community service
+- 🎨 Led the design of the NSS annual magazine **"Kalya" 2025**
+- 📜 **IBM Machine Learning Professional Certificate** and **IBM Data Science Professional Certificate**
+- 📜 Deloitte Data Analytics Job Simulation (Forage) · HackerRank SQL · Udemy Python Bootcamp
+
+---
+
+<h3 align="left">🛠 Languages and Tools:</h3>
 
 <p align="left">
-<a href="mailto:poddersak@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+</a>
+
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="colab" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">🌐 Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR-LINKEDIN" height="30" width="40" />
+</a>
+
+<a href="mailto:poddersak@gmail.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-icon.svg" alt="poddersak@gmail.com" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saaksshi18&show_icons=true&theme=tokyonight&hide_border=true" />
