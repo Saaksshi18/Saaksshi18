@@ -1,21 +1,105 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm **Saaksshi Podder**, a Computer Science undergraduate at **KIIT**, passionate about building practical software and AI-driven solutions.<br><br>* 🎓 **B.Tech CSE @ KIIT** | CGPA: **8.98/10**<br>* 💻 Strong foundation in **Java, Python, SQL, C, DSA, OOP, DBMS, OS & Computer Networks**<br>* 🤖 Exploring **AI/ML, Deep Learning, Computer Vision, Generative AI, LLMs & RAG**<br>* 🧠 Experienced with **TensorFlow, PyTorch, Scikit-learn, LangChain, ChromaDB, Whisper & Grad-CAM**<br>* ⚙️ Building backend applications with **Spring Boot, FastAPI & REST APIs**<br>* 📊 Interested in **Data Science, Analytics & AI Engineering** using NumPy, Pandas, Matplotlib, Power BI & Excel<br>* 🚀 Worked on projects involving **Pneumonia Detection + Explainable AI, RAG-based AI Video Assistant, and a Spring Boot Parking Management System**<br>* ☁️ Familiar with **Streamlit, Render, Vercel, GitHub Actions (CI/CD), Git & GitHub**<br>* 🎨 **Graphic Design Lead & Project Representative** in NSS-SCE-KIIT, leading teams across community initiatives and design projects, skilled in Figma, Canva and any Design tools<br>* 📚 Currently focused on strengthening **DSA, AI/ML, backend development and production-ready software engineering**<br><br>> **Learning → Building → Deploying → Improving** 🚀<br>
+<h1 align="center">Hi 👋, I'm Saaksshi</h1>
 
+<h3 align="center">Pre-Final Year B.Tech CSE @ KIIT University · AI/ML & Full-Stack Developer</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saaksshi-podder-2287b5275/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/4Jb9vAVCs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poddersak@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Saaksshi18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Saaksshi18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saaksshi18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saaksshi18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">
+Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, Web Development
+</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Saaksshi18&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I build AI systems that go beyond notebooks, from model training to deployed, usable products. I enjoy the full loop: designing the model, wrapping it in a **FastAPI** backend, and shipping a clean **React** frontend.
+
+- 🌱 Currently working on **LLMs, RAG, agentic AI, and medical-image deep learning**
+- 🩺 Exploring **explainable AI** with Grad-CAM
+- ⚙️ Completed an **8-week AI/ML research internship** at KIIT (summer 2026)
+- 🎨 **Graphic Design Lead & Project Representative** at NSS-SCE-KIIT
+- 💻 Regular problem solver: DSA in Java, graph algorithms, competitive programming
+- 📫 Reach me at **poddersak@gmail.com**
+
+---
+
+## 🚀 Projects
+
+**🎥 AI RAG Video Assistant** — Retrieval-augmented assistant for asking questions about video content. <br>
+🔗 [View Repo](https://github.com/Saaksshi18/ai-rag-video-assistant)
+
+**🫁 PneumoScan** — Pneumonia detection from chest X-rays with Grad-CAM heatmaps. Deployed with a FastAPI backend on Render and a frontend on Vercel. <br>
+🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO) · [Live Demo](https://YOUR-DEMO-LINK)
+
+**🤝 Saathi** — Hyperlocal B2B agentic AI negotiation platform. A confidence-gated agent scores each deal on five signals and escalates to a human when unsure. Built with LangChain, Claude API, FastAPI, MySQL, React, and the WhatsApp Business API. <br>
+🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
+
+**📊 LLM Evaluation Dashboard** — Scores LLM outputs on accuracy, hallucination, latency, cost, and user satisfaction using an LLM-as-judge approach. <br>
+🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
+
+**🔬 Skin Disease Classifier** — Transfer learning on SD-198 with external validation on PAD-UFES-20. <br>
+🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **Unit-Level Best Volunteer**, awarded by NSS on NSS Day 2026 for outstanding contribution to community service
+- 🎨 Led the design of the NSS annual magazine **"Kalya" 2025**
+- 📜 **IBM Machine Learning Professional Certificate** (6 courses) and **IBM Data Science Professional Certificate**
+- 📜 Deloitte Data Analytics Job Simulation (Forage) · HackerRank SQL · Udemy Python Bootcamp
+
+---
+
+## 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBOOST-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/CLAUDE_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OPENAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Twilio](https://img.shields.io/badge/TWILIO-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Google Maps](https://img.shields.io/badge/GOOGLE_MAPS_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Colab](https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="mailto:poddersak@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saaksshi18&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saaksshi18&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaksshi18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
