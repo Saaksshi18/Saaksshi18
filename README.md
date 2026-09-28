@@ -81,16 +81,21 @@ I build AI systems that go beyond notebooks, from model training to deployed, us
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🌐 Connect with me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR-LINKEDIN" height="30" width="40" />
-</a>
-
-<a href="mailto:poddersak@gmail.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-icon.svg" alt="poddersak@gmail.com" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="mailto:poddersak@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/saaksshi-podder-2287b5275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/GJafvaEaTU/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://in.pinterest.com/khihere/">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
 </p>
 
 ---
