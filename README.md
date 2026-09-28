@@ -27,25 +27,8 @@ I build AI systems that go beyond notebooks, from model training to deployed, us
 🔗 [View Repo](https://github.com/Saaksshi18/ai-rag-video-assistant)
 
 **🫁 PneumoScan** — Pneumonia detection from chest X-rays with Grad-CAM heatmaps. Deployed with a FastAPI backend on Render and a frontend on Vercel. <br>
-🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO) · [Live Demo](https://YOUR-DEMO-LINK)
+🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO) 
 
-**🤝 Saathi** — Hyperlocal B2B agentic AI negotiation platform. A confidence-gated agent scores each deal on five signals and escalates to a human when unsure. Built with LangChain, Claude API, FastAPI, MySQL, React, and the WhatsApp Business API. <br>
-🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
-
-**📊 LLM Evaluation Dashboard** — Scores LLM outputs on accuracy, hallucination, latency, cost, and user satisfaction using an LLM-as-judge approach. <br>
-🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
-
-**🔬 Skin Disease Classifier** — Transfer learning on SD-198 with external validation on PAD-UFES-20. <br>
-🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
-
----
-
-## 🏆 Achievements
-
-- 🏅 **Unit-Level Best Volunteer**, awarded by NSS on NSS Day 2026 for outstanding contribution to community service
-- 🎨 Led the design of the NSS annual magazine **"Kalya" 2025**
-- 📜 **IBM Machine Learning Professional Certificate** (6 courses) and **IBM Data Science Professional Certificate**
-- 📜 Deloitte Data Analytics Job Simulation (Forage) · HackerRank SQL · Udemy Python Bootcamp
 
 ---
 
