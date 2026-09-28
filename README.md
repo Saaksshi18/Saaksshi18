@@ -3,7 +3,7 @@
 <h3 align="center">Pre-Final Year B.Tech CSE @ KIIT University</h3>
 
 <h3 align="center">
-Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, and Data Science
+Interested in AI/ML, Agentic AI & LLM Apps and Data Science
 </h3>
 
 ---
