@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saaksshi</h1>
 
-<h3 align="center">Pre-Final Year B.Tech CSE @ KIIT University · AI/ML & Full-Stack Developer</h3>
+<h3 align="center">Final Year B.Tech CSE @ KIIT University · AI/ML & Full-Stack Developer</h3>
 
 <h3 align="center">
-Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, Web Development
+Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, Development & Problem Solving
 </h3>
 
 ---
@@ -13,9 +13,8 @@ Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, Web Development
 I build AI systems that go beyond notebooks, from model training to deployed, usable products. I enjoy the full loop: designing the model, wrapping it in a **FastAPI** backend, and shipping a clean **React** frontend.
 
 - 🌱 Currently working on **LLMs, RAG, agentic AI, and medical-image deep learning**
-- 🩺 Exploring **explainable AI** with Grad-CAM
+- 🩺 Exploring **explainable AI** with Grad-CAM and many more
 - ⚙️ Completed an **8-week AI/ML research internship** at KIIT (summer 2026)
-- 🎨 **Graphic Design Lead & Project Representative** at NSS-SCE-KIIT
 - 💻 Regular problem solver: DSA in Java, graph algorithms, competitive programming
 - 📫 Reach me at **poddersak@gmail.com**
 
