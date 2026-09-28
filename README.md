@@ -3,117 +3,81 @@
 <h3 align="center">Pre-Final Year B.Tech CSE @ KIIT University</h3>
 
 <h3 align="center">
-Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, Web Development
+Interested in AI/ML, Agentic AI & LLM Apps, Computer Vision, and Data Science
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-I build AI systems that go beyond notebooks, from model training to deployed, usable products. I enjoy the full loop: designing the model, wrapping it in a **FastAPI** backend, and shipping a clean **React** frontend.
+I build AI systems that go beyond notebooks, from model training to deployed, usable products. I enjoy the full loop: designing the model, wrapping it in a usable backend, and shipping a clean frontend.
 
 - 🌱 Currently working on **LLMs, RAG, agentic AI, and medical-image deep learning**
-- 🩺 Exploring **explainable AI** with Grad-CAM
+- 🩺 Exploring **explainable AI** with Grad-CAM and other GenAI tools as well as other Data Science works
 - ⚙️ Completed an **8-week AI/ML research internship** at KIIT (summer 2026)
-- 🎨 **Graphic Design Lead & Project Representative** at NSS-SCE-KIIT
+- 🎨 **Design and Art Enthusiast** I can use Figma Canva and even better my hands for cool artworks
 - 💻 Regular problem solver: DSA in Java, graph algorithms, competitive programming
 - 📫 Reach me at **poddersak@gmail.com**
 
 ---
 
-<h3 align="left">🚀 Projects:</h3>
+<h3 align="left">🚀 Recent Projects:</h3>
 
 **AI RAG Video Assistant** — Retrieval-augmented assistant for asking questions about video content. <br>
 🔗 [View Repo](https://github.com/Saaksshi18/ai-rag-video-assistant)
 
 **PneumoScan** — Pneumonia detection from chest X-rays with Grad-CAM heatmaps. Deployed with a FastAPI backend on Render and a frontend on Vercel. <br>
-🔗 LIVE DEMO- https://YOUR-DEMO-LINK
-
-**Saathi** — Hyperlocal B2B agentic AI negotiation platform. A confidence-gated agent scores each deal on five signals and escalates to a human when unsure. Built using LangChain, Claude API, FastAPI, MySQL & React. <br>
-🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
-
-**LLM Evaluation Dashboard** — Scores LLM outputs on accuracy, hallucination, latency, cost, and user satisfaction using an LLM-as-judge approach, built with FastAPI, SQLite & React. <br>
-🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
-
-**Skin Disease Classifier** — Transfer learning on SD-198 with external validation on PAD-UFES-20. <br>
-🔗 [View Repo](https://github.com/Saaksshi18/YOUR-REPO)
 
 ---
 
-<h3 align="left">🏆 Achievements</h3>
+## 🔧 Tech Stack & Tools
 
-- 🏅 **Unit-Level Best Volunteer**, awarded by NSS on NSS Day 2026 for outstanding contribution to community service
-- 🎨 Led the design of the NSS annual magazine **"Kalya" 2025**
-- 📜 **IBM Machine Learning Professional Certificate** and **IBM Data Science Professional Certificate**
-- 📜 Deloitte Data Analytics Job Simulation (Forage) · HackerRank SQL · Udemy Python Bootcamp
+<div align="center">
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/huggingface.png" alt="Hugging Face" title="Hugging Face"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png" alt="LaTeX" title="LaTeX"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" alt="Streamlit" title="Streamlit"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pydantic.png" alt="Pydantic" title="Pydantic"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" alt="Vercel" title="Vercel"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" alt="PyTorch" title="PyTorch"/></code>
+</div>
 
----
-
-<h3 align="left">🛠 Languages and Tools:</h3>
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>
-</a>
-
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
-</a>
-
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="colab" width="40" height="40"/>
-</a>
-
+<p align="center">
+  <sub>
+    <strong>Languages:</strong> Python • Java • SQL • LaTeX<br>
+    <strong>Frameworks:</strong> FastAPI • React • LangChain<br>
+    <strong>AI/ML:</strong> TensorFlow • PyTorch • scikit-learn • XGBoost • Seq2Pat • Grad-CAM • Transfer Learning • RAG • LLM-as-Judge<br>
+    <strong>Data & Visualization:</strong> NumPy • Pandas • Matplotlib • Plotly<br>
+    <strong>LLM APIs:</strong> Claude API • OpenAI API<br>
+    <strong>DB:</strong> MySQL • SQLite<br>
+    <strong>Design:</strong> Figma • Canva<br>
+    <strong>Deployment:</strong> Render • Vercel<br>
+    <strong>Tools/Platforms:</strong> VS Code • Git/GitHub • Google Colab • Kaggle • Ubuntu
+  </sub>
 </p>
+
+**Currently exploring:** Agentic AI, RAG Pipelines, LLM Evaluation, Explainable AI, Medical Image Classification, Few-Shot Learning
 
 ---
 
