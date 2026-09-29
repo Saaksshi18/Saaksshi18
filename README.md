@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saaksshi</h1>
 
-<h3 align="center">Pre-Final Year B.Tech CSE @ KIIT University</h3>
+<h3 align="center">Final Year B.Tech CSE @ KIIT University</h3>
 
 <h3 align="center">
 Interested in AI/ML, Agentic AI & LLM Apps and Data Science
